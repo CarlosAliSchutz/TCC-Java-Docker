@@ -1,0 +1,10 @@
+.pedidoAmizade {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.amizades {
+  width: 350px;
+}
